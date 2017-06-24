@@ -1,0 +1,8 @@
+LIBRARY
+EXPORTS
+	DebugExtensionInitialize
+	DebugExtensionUninitialize
+	Help
+	List
+	Hide
+	Unhide
